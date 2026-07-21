@@ -1,0 +1,10 @@
+{
+  "Name": "Meu Cabelo Mod",
+  "Author": "Davi Climaco",
+  "Version": "1.0.0",
+  "Description": "Adiciona um penteado customizado",
+  "UniqueID": "SeuNome.MeuCabeloMod",
+  "MinimumApiVersion": "4.0.0",
+  "EntryDll": "MeuCabeloMod.dll",
+  "UpdateKeys": []
+}
